@@ -62,5 +62,5 @@ def main():
 		result = max_class(kn_neighbors)
 		test_class.append(result)
 		print('Predicted class for test data is' + repr(result))
-	
+	 
 main()
